@@ -1,7 +1,7 @@
 # SQUARE AND CUBE OF A NUMBER
 # 8051 Square  Program
-## Name: KARTHICK K
-## Reg no: 212222040070
+## Name: KEERTHIVASAN S
+## Reg no: 212222040076
 ## AIM
 To write and execute an Assembly language program for finding the square of a given data using 8051 microcontroller in Keil software.
 
